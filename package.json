@@ -2,15 +2,14 @@
   "engines": {
     "node": "22.12.0"
   },
-  "name": "airbnb-clone-apna-college",
+  "name": "airbnb-clone",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "lakshay",
-  "license": "ISC",
+  "author": "souvik",
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.16.1",
     "cloudinary": "^1.41.3",
